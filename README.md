@@ -2,5 +2,5 @@
 
 To run this colab notebook
 
-- 1
-- 2
+-1 Dowload the zip and polymesh files
+-2 Open 
